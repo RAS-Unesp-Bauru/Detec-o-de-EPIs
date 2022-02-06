@@ -34,3 +34,6 @@ pip install pillow
 
 pip install MTCNN
 
+4º Realizar o download da pasta finalRAS 
+
+Após a finalização do download é necessário adcionar o caminho de origem da pasta, ou seja, onde está localizada a pasta no seu sistema

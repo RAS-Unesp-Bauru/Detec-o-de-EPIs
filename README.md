@@ -24,15 +24,15 @@ git clone https://github.com/RAS-Unesp-Bauru/EPEIs
 
  3º Instalar as bibliotecas 
  
-pip install tensorflow
+`pip install tensorflow`
 
-pip install numpy
+`pip install numpy`
 
-pip install opencv-python
+`pip install opencv-python`
 
-pip install pillow
+`pip install pillow`
 
-pip install MTCNN
+`pip install MTCNN`
 
 4º Realizar o download da pasta finalRAS 
 
